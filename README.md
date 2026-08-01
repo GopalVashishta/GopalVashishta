@@ -24,7 +24,7 @@ class GopalVashishta:
         self.location   = "Punjab, India 🇮🇳"
         self.university = "Lovely Professional University (LPU)"
         self.degree     = "B.Tech - CSE, Class of 2027 (CGPA: 8.79)"
-        self.roles      = ["AI/ML Engineer", "Full-Stack Developer (React + FastAPI)"]
+        self.roles      = ["AI/ML Engineer", "Full-Stack Developer (React + FastAPI)", "Competitive Programmer"]
 
     @property
     def currently(self):
