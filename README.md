@@ -95,22 +95,18 @@ class GopalVashishta:
 
 | 🏗️ Project | 🔍 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
-| **Agentic RAG System** | Agentic retrieval-augmented generation pipeline — flagship submission for **Flipkart GRiD 8.0** (AI Engineering track) | LangGraph · LangChain · FAISS · SentenceTransformers · Groq · FastAPI · React | — |
-| **ExpenseMerge** | MERN-stack financial platform with JWT/OAuth2 auth and Razorpay webhook integration | MongoDB · Express · React · Node.js · JWT/OAuth2 · Razorpay | — |
-| **Route Optimization Pipeline** | Delivery-route model on the Delhivery dataset — 94% accuracy, 14% improvement in on-time delivery | XGBoost · Python · Pandas | — |
-| **Personalized Wellness Recommendation System** | Recommender combining clustering and generative models for personalized wellness suggestions | K-Prototypes · Autoencoders · VAEs · Python | — |
-| **Road Sign Recognition** | Real-time road sign detection & classification pipeline | YOLOv8 · Custom PyTorch CNN | — |
-| **Malicious Website Detection** | Anomaly-detection system flagging malicious URLs via rank fusion across multiple models | Isolation Forest · LOF · One-Class SVM · TensorFlow Autoencoder | — |
-
-> Swap the `—` placeholders for each repo's URL once it's pushed to GitHub.
-
+| **Agentic RAG System** | Agentic retrieval-augmented generation pipeline — flagship submission for **Flipkart GRiD 8.0** (AI Engineering track) | LangGraph · LangChain · FAISS · SentenceTransformers · Groq · FastAPI · React | [GitHub](https://github.com/GopalVashishta/Agentic_Rag) |
+| **Road Sign Recognition** | Real-time road sign detection & classification pipeline | YOLOv8 · Custom PyTorch CNN · Steamlit | [GitHub](https://github.com/GopalVashishta/Road_Sign_Recognition_CNN_GTSRB) |
+| **ExpenseMerge** | MERN-stack financial platform with JWT/OAuth2 auth and Razorpay webhook integration | MongoDB · Express · React · Node.js · JWT/OAuth2 · Razorpay | [GitHub](https://github.com/GopalVashishta/ExpenseApp-Server) |
+| **Personalized Wellness Recommendation System** | Recommender combining clustering and generative models for personalized wellness suggestions | K-Prototypes · Autoencoders · VAEs · Python | [GitHub](https://github.com/GopalVashishta/Lifestyle-Based-Patient-Grouping-for-Personalized-Wellness-Recommendations) |
+| **Route Optimization Pipeline** | Delivery-route model on the Delhivery dataset — 94% accuracy, 14% improvement in on-time delivery | XGBoost · Python · Pandas | [GitHub](https://github.com/GopalVashishta/Route-Optimization-for-E-Commerce-ML) |
 ---
 
 ## 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Methematics?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/Methematics/)
 
-> 🔥 **450+ Problems Solved** on LeetCode · **700+** across all platforms
+> 🔥 **450+ Problems Solved** on LeetCode · **800+** across all platforms
 
 ---
 
@@ -138,7 +134,7 @@ class GopalVashishta:
 | **CODETHON 4.0** — Finalist | National Level Competition |
 | **Anomaly Hunter League** — 1st Runner-Up | School of AI & Computing LPU|
 | **120-Hour DSA Training** — Programming Pathshala | Completed |
-| **LeetCode** | 450+ problems solved (650+ across platforms) |
+| **LeetCode** | 450+ problems solved (800+ across platforms) |
 
 ---
 
